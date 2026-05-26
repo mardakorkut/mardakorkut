@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Arda! 👋
 
-<!--
-**mardakorkut/mardakorkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year Computer Engineering student based in Istanbul. I'm focusing on building solid software and hardware systems.
 
-Here are some ideas to get you started:
+🔭 **Currently Working On:**
+* **Salon Management SaaS:** A WhatsApp-integrated appointment automation and staff management platform for beauty salons featuring a no-show reduction engine.
+* **RGB Guardian:** An addressable LED game controlled via STM32 microcontroller.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack:**
+* **Backend Development:** Python, FastAPI
+* **Embedded Systems:** C/C++
+
+🌱 **Currently Learning:**
+* **Java & Spring Boot**
+
+📫 **Let's Connect:**
+* **Email:** mardakrkt@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/muhammed-arda-korkut-a8921029b/
