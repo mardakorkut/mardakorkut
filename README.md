@@ -15,4 +15,4 @@ I'm a 2nd-year Computer Engineering student based in Istanbul. I'm focusing on b
 
 📫 **Let's Connect:**
 * **Email:** mardakrkt@gmail.com
-* **LinkedIn:** [https://www.linkedin.com/in/muhammed-arda-korkut-a8921029b/](https://www.linkedin.com/in/mardakorkut/)
+* **LinkedIn:** [https://www.linkedin.com/in/mardakorkut/](https://www.linkedin.com/in/mardakorkut/)
