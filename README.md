@@ -8,7 +8,7 @@ I'm a 2nd-year Computer Engineering student based in Istanbul. I'm focusing on b
 
 🛠 **Tech Stack:**
 * **Backend Development:** Python, FastAPI
-* **Embedded Systems:** C/C++
+* **Embedded Systems:** C
 
 🌱 **Currently Learning:**
 * **Java & Spring Boot**
