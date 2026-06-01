@@ -7,11 +7,11 @@ I'm a 2nd-year Computer Engineering student based in Istanbul. I'm focusing on b
 * **RGB Guardian:** An addressable LED game controlled via STM32 microcontroller.
 
 🛠 **Tech Stack:**
-* **Backend Development:** Python, FastAPI
+* **Backend Development:** Python, FastAPI, Java
 * **Embedded Systems:** C
 
 🌱 **Currently Learning:**
-* **Java & Spring Boot**
+* **Spring Boot**
 
 📫 **Let's Connect:**
 * **Email:** mardakrkt@gmail.com
