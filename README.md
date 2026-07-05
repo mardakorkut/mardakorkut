@@ -1,6 +1,6 @@
 ### Hi there, I'm Arda! 👋
 
-I'm a 2nd-year Computer Engineering student based in Istanbul. I'm focusing on building solid software and hardware systems.
+I'm a 3nd-year Computer Engineering student based in Istanbul. I'm focusing on building solid software and hardware systems.
 
 🔭 **Currently Working On:**
 * **Salon Management SaaS:** A WhatsApp-integrated appointment automation and staff management platform for beauty salons featuring a no-show reduction engine.
